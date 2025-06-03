@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawner
+  - Wall
+  - UIPanel
+  - cursor
+  - Enemy
+  - Melee
+  - indicator
+  - GoodTree
+  - StaticObject
+  - CheckPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnoreLayer
+  - Water
+  - UI
+  - GoodTree
+  - DontDestroy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PortalLayer
+    uniqueID: 1777896527
+    locked: 0

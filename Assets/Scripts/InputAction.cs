@@ -1,0 +1,22 @@
+public enum InputAction
+{
+    Attack, 
+    Parry,
+    MoveForward,
+    MoveLeft,
+    MoveBackward,
+    MoveRight,
+    Sprint,
+    Roll,
+    Use,
+    UseItem,
+    SwitchWeapon,
+    OpenInventory,
+    OpenRebindPanel,
+    ShowAbilityInformation,
+    AbilButton1,
+    AbilButton2,
+    AbilButton3,
+    AbilButton4,
+    ConfirmAbility
+}
