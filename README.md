@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/3d9e543f-c0e1-4ceb-8506-9b1caa57c9f6)
 
-Пользовательская документация
+Пользовательская документация:
 •	Платформа: Windows, разработка в Unity Editor 2022+
 •	Запуск: через Unity Editor (сцена MainScene) или экспорт в .exe
 •	Требования:
